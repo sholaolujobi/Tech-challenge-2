@@ -1,4 +1,4 @@
-# Jenkins, Docker, and AWS EKS CI/CD Deployment**
+# Jenkins, Docker, and AWS EKS CI/CD Deployment
 
 This project demonstrates how to deploy a web application using Docker, orchestrate it with AWS 
 EKS, and set up a continuous deployment pipeline using **Jenkins**. The application is a simple 
